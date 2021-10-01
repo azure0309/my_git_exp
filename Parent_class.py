@@ -11,3 +11,6 @@ class Person:
 
 me = Person('Nandia', 23)
 print(me, end='-')
+
+def get_info(name, age, gender):
+    print(name, age, gender)
