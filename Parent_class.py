@@ -9,4 +9,4 @@ class Person:
     def __repr__(self):
         return 'lol'
 
-print('master')
+print('Nandia')
