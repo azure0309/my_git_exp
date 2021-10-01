@@ -10,4 +10,4 @@ class Person:
         return 'lol'
 
 me = Person('Tuguldur', 23)
-print(me)
+print(me, end='-')
