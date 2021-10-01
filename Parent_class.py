@@ -9,6 +9,5 @@ class Person:
     def __repr__(self):
         return 'lol'
 
-def get_info(*args):
-    if not False in args:
-        print(args[0], args[1], args[2])
+me = Person('Tuguldur', 23)
+print(me, end='-')
